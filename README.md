@@ -3,6 +3,7 @@
 ### Todo list
 - WebARENAでVPS建てて、dokku使ってなんか作る
 - Flutterで適当にアプリ作ってリリースする
+- discordとmatterMostの通知をlineに飛ばすbotを作る
 
 <!--
 **RYO1223/RYO1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
