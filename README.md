@@ -3,6 +3,8 @@
 ### Todo list
 - VPS借りたからなんか作りたい
 - Flutterでアプリ作ってリリースする
+- discord bot作りたい
+- 複数の鯖を監視するツールを作る（Zabbixでいけそう）
 
 <!--
 **RYO1223/RYO1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
