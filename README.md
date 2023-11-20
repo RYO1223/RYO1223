@@ -16,3 +16,4 @@ And my app "AI Voice Talk" is **[here](https://github.com/RYO1223/resume/blob/ma
 - 海外で仕事をしたい
 - ↑のスコアを上げたい🙄
 - CSの学位取りたい(UoPeople良さそう)
+- 関数型プログラミング言語触りたい（Rust）
